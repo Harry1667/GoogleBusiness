@@ -19,3 +19,27 @@ L3 加值                →  深度整合 300,000 / 月
 
 ## 相關
 母品牌：[ZhiJian](https://github.com/Harry1667/ZhiJian)
+
+---
+
+## English
+
+A low-friction sub-brand of ZhiJian (智簡). Google Business Profile management is the trust entry point — small shops start at NT$2,000 one-off and gradually upgrade into ZhiJian's monthly-retainer consulting.
+
+### Service tiers
+| Tier | Service | Pricing |
+|------|---------|---------|
+| L1 | GBP setup and optimization | NT$2,000–5,000 (one-off) |
+| L2 | Monthly management (ongoing optimization + review replies) | NT$1,500–3,000 / month |
+| L3 | Add-ons (website / LINE official account / ads) | Quote on request |
+
+### Funnel position
+```
+This project (low-friction entry)  →  ZhiJian (high-tier monthly retainer)
+L1 Setup NT$2k                      →
+L2 Monthly NT$3k                    →  Standard residency NT$200k / month
+L3 Add-ons                          →  Deep integration NT$300k / month
+```
+
+### Related
+Parent brand: [ZhiJian](https://github.com/Harry1667/ZhiJian)
